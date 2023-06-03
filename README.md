@@ -50,8 +50,8 @@
 ![image](https://github.com/barathsubramani/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/post1.png)
 ![image](https://github.com/barathsubramani/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/post3.png)
 
-### Name: 
-### Register Number:
+### Name: Barath S
+### Register Number: 212222230018
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
